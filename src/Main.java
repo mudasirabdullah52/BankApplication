@@ -10,6 +10,6 @@ public class Main {
         b1.credit(500,20064, 20065);
         b1.accInformation(20064);
         b2.accInformation(20065);
-//        b1.credit(500,);
+
     }
 }
